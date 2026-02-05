@@ -3,4 +3,3 @@
 
 ![](https://github.com/CyberNayck/Suicide_software/blob/main/screen.png)
 
-Внимание ! Данный софт считается на оригинальным продуктом, а просто выложенная не GutHub
